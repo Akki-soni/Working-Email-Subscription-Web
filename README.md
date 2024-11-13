@@ -73,7 +73,7 @@ const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://working-email-subscription-web.vercel.app/)
 
 ## 🤝 Contributing
 
