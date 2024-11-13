@@ -100,6 +100,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Thank You &#10084;
 
-Thank you for exploring the StopWatch! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
+Thank you for exploring the Working Email Subscription! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 </div>
