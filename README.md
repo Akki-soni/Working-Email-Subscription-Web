@@ -31,9 +31,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For structuring the web page.
-- **CSS3**: For styling the gallery layout, including grid and flexbox.
-- **JavaScript**: For adding interactivity like the modal window and hover effects.
+- **HTML5**: Structure of the subscription form.
+- **CSS3**: Styling for the layout and responsiveness.
+- **JavaScript**: Handles email validation and user interaction.
 
 ## 🚀 How to Use
 
