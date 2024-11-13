@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A responsive image gallery built using HTML, CSS, and JavaScript. This project displays a collection of images that users can browse through in a visually appealing and interactive way.
+  A responsive and fully functional email subscription form built with HTML, CSS, and JavaScript. This project allows users to subscribe by entering their email addresses, with form validation ensuring valid entries.
 </p>
 
 ## 🚀 Features
