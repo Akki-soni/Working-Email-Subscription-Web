@@ -35,10 +35,12 @@
 - **CSS3**: Styling for the layout and responsiveness.
 - **JavaScript**: Handles email validation and user interaction.
 
-## 🚀 How to Use
+## 🚀 How It Works
 
-- ***Open the `index.html` file in your browser.***
-- ***Rotate or Click the arrow key to scroll the image.***
+1. **User Interaction**: Users input their email address into the form.
+2. **Validation**: JavaScript checks if the email format is valid.
+3. **Feedback**: If the email is valid, the form processes the request; otherwise, it displays an error message.
+4. **Success**: A success message is displayed once a valid email is submitted.
 
 ## 🚀 Project Setup
 
@@ -46,7 +48,7 @@ No external dependencies are required. Just clone the repository and open the `i
 
 ```bash
 git clone <https://github.com/Akki-soni/Image-Gallery-Web.git>
-cd Image-Gallery-Web
+cd working-email-subscription
 open index.html
 ```
 
@@ -56,6 +58,13 @@ open index.html
 ├── index.html  # The main HTML file
 ├── style.css   # The CSS file for styling
 └── script.js  # The JavaScript file for functionality
+```
+
+## Email Validation Logic
+
+The JavaScript uses a regular expression (regex) to check for a valid email format:
+```javascript
+const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 ```
 
 ## 🌟 Screenshots
