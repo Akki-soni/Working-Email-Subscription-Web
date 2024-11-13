@@ -23,12 +23,11 @@
 
 ## 🚀 Features
 
-- **Responsive Design**: The gallery adjusts to different screen sizes (mobile, tablet, and desktop) using CSS media queries.
-- **Interactive Elements**: Images can be clicked to view in a larger size or open in a modal.
-- **Hover Effects**: Smooth hover animations to enhance user experience.
-- **Lightbox Effect**: Displays a larger version of the image in an overlay.
-- **Image Filtering**: Optional feature to filter images based on categories.
-- **Lazy Loading**: Images load only when they come into the viewport, improving performance.
+- **Responsive Design**: The form is mobile-friendly and adjusts to various screen sizes.
+- **Form Validation**: Users cannot submit an empty or invalid email address.
+- **Interactive UI**: Dynamic user feedback is provided for invalid inputs.
+- **JavaScript Functionality**: Handles the subscription process in real-time.
+- **Customizable Styles**: The design can be easily adjusted using CSS for various UI preferences.
 
 ## 🛠️ Technologies Used
 
