@@ -69,11 +69,11 @@ const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 ## 🌟 Screenshots
 
-![Image-Gallery-Screenshot](/images/I-G_Screenshot.png)
+![Working-Email-Subscription-Screenshot](/images/W-E-S_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://image-gallery-web-ashen.vercel.app/)
+[View Live Demo]()
 
 ## 🤝 Contributing
 
